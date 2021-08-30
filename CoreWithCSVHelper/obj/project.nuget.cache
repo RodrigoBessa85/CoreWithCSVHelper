@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "0WEiFU6p35ItUdPi07VHkTCijvRvVynU2DYODNxDJlBDrFoRMH9iyjiEnuRurERSbbgcaRtiphWFnIAv9QRuZQ==",
+  "success": true,
+  "projectFilePath": "C:\\ESTUDOS\\CoreWithCSVHelper\\CoreWithCSVHelper\\CoreWithCSVHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rbess\\.nuget\\packages\\csvhelper\\27.1.1\\csvhelper.27.1.1.nupkg.sha512",
+    "C:\\Users\\rbess\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
